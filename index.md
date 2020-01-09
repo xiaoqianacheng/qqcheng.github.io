@@ -10,7 +10,7 @@
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png" width = "100%">
         </td>
      <tr> 
-  </table>  
+  
 <div>E-mail : qianqiancheng2018@njust.edu.cn</div>
 
 <div>Currently I mainly study in optical imaging through scattering medium and phase 
@@ -20,7 +20,6 @@ retrieval based on traditional algorithms as well as deep learning.</div>
 
 ### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
 
-<table border="none">
    <tr>
       <td width = "45%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-3333.png" width = "100%">
