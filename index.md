@@ -41,8 +41,8 @@ __Reconstructing object imaging in the complex scene from its autocorrelation vi
 <table border = "0">
    <tr>
       <td width = "55%">
-         <p><b>  Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary. 
-So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image. </b></p>
+         <p><b>  Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary.</b></p>
+         <p><b>So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image. </b></p>
          </td>
         <td width = "45%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-12222.png" width = "100%">
@@ -53,13 +53,13 @@ So my next work is improving the evaluation indicators in MNIST-Fashion, utilizi
 
 ### Publication
 
- __Gamma measurement based on CMOS sensor and ARM microcontroller__
+ __Gamma measurement based on CMOS sensor and ARM microcontroller__   
    __Qian-Qian Cheng,__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang  
    Nuclear Science and Techniques, 2017  
- __X-ray detection based on complementary metal-oxide-semiconductor sensors__
-   __Qian-Qian Cheng,__ Chun-Wang Ma, Yan-Zhong Yuan, Fang Wang, Fu Jin, Xian-Feng Liu  
+ __X-ray detection based on complementary metal-oxide-semiconductor sensors__      
+   __Qian-Qian Cheng,__ Chun-Wang Ma, Yan-Zhong Yuan, Fang Wang, Fu Jin, Xian-Feng Liu      
    Nuclear Science and Techniques, 2019   
- __Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)__
-   Song-Ling Zhang,  __Qian-Qian Cheng,__ De-Fei Guo, Chun-Wang Ma, Fang Wang  
+ __Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)__    
+   Song-Ling Zhang,  __Qian-Qian Cheng,__ De-Fei Guo, Chun-Wang Ma, Fang Wang       
    Nuclear Electronics＆Detection Technology, 2017
    
