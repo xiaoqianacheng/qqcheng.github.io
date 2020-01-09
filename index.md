@@ -2,7 +2,7 @@
    <tr>
       <td width = "55%">
          <h1> Qianqian Cheng </b></p>
-         <p><b> I am a 2rd year PhD candidate at Nanjing University of </b></p>
+         <p><b>    I am a 2rd year PhD candidate at Nanjing University of </b></p>
          <p><b>Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</b></p>
          <p><b>My major is Optical Engineering.</b></p>
         </td>
