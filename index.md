@@ -56,7 +56,7 @@
 ### Publication
   
 <p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST28(2017)122Gamma%20Measurement%20based%20on%20CMOS%20and.pdf" target="_blank" text-decoration="none">Gamma measurement based on CMOS sensor and ARM microcontroller</a></p>
-   <b>Qian-Qian Cheng,</b>__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang    
+   <b>Qian-Qian Cheng,</b>__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang</br>    
    Nuclear Science and Techniques, 2017  
  __X-ray detection based on complementary metal-oxide-semiconductor sensors__      
    __Qian-Qian Cheng,__ Chun-Wang Ma, Yan-Zhong Yuan, Fang Wang, Fu Jin, Xian-Feng Liu      
