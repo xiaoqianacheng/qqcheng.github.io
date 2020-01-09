@@ -2,7 +2,7 @@
    <tr>
       <td width = "55%">
          <h1> Qianqian Cheng </b></p>
-         <p><b>    I am a 2rd year PhD candidate at Nanjing University of </b></p>
+         <p><b>I am a 2rd year PhD candidate at Nanjing University of </b></p>
          <p><b>Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</b></p>
          <p><b>My major is Optical Engineering.</b></p>
         </td>
@@ -17,14 +17,39 @@
    Currently I mainly study in optical imaging through scattering medium and phase 
  retrieval based on traditional algorithms as well as deep learning.    
 
+
 # Related work
+
+
 ### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
 
-   Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern. This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. 
+<table border = "0">
+   <tr>
+      <td width = "55%">
+         <p><b>Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern. This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. </b></p>
+        </td>
+        <td width = "45%">
+          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-3333.png" width = "100%">
+          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-2.png" width = "100%">
+        </td>
+     <tr> 
+  </table>
+ 
 
-### Reconstructing object imaging in complex scene from its autocorrelation via traditional algorithms and convolutional neural network.
-   Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary. My manuscript is in writing.
-So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image.
+### Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).
+
+<table border = "0">
+   <tr>
+      <td width = "55%">
+         <p><b>  Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary. 
+So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image. </b></p>
+         </td>
+        <td width = "45%">
+          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-12222.png" width = "100%">
+        </td>
+     <tr> 
+  </table>
+         
 
 # Publication
 
