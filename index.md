@@ -22,7 +22,7 @@
 ## Related work
 
 
-### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
+__Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning__
 
 <table border = "0">
    <tr>
@@ -36,8 +36,7 @@
      <tr> 
   </table>
  
-
-### Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).
+__Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).__
 
 <table border = "0">
    <tr>
@@ -52,17 +51,15 @@ So my next work is improving the evaluation indicators in MNIST-Fashion, utilizi
   </table>
          
 
-## Publication
+### Publication
 
-### Gamma measurement based on CMOS sensor and ARM microcontroller
+ __Gamma measurement based on CMOS sensor and ARM microcontroller__
    __Qian-Qian Cheng,__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang  
-   Nuclear Science and Techniques, 2017
-  
-### X-ray detection based on complementary metal-oxide-semiconductor sensors
+   Nuclear Science and Techniques, 2017  
+ __X-ray detection based on complementary metal-oxide-semiconductor sensors__
    __Qian-Qian Cheng,__ Chun-Wang Ma, Yan-Zhong Yuan, Fang Wang, Fu Jin, Xian-Feng Liu  
-   Nuclear Science and Techniques, 2019
-   
-### Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)
+   Nuclear Science and Techniques, 2019   
+ __Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)__
    Song-Ling Zhang,  __Qian-Qian Cheng,__ De-Fei Guo, Chun-Wang Ma, Fang Wang  
    Nuclear Electronics＆Detection Technology, 2017
    
