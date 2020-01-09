@@ -1,4 +1,5 @@
 # Qianqian cheng
+<table border="none">
    <tr>
       <td width = "55%"> 
          <p font-size="16px">I am a 2rd year PhD candidate at Nanjing University of <span color="#1772d0"></p>
@@ -9,7 +10,7 @@
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png" width = "100%">
         </td>
      <tr> 
-  
+</table>  
 <div>E-mail : qianqiancheng2018@njust.edu.cn</div>
 
 <div>Currently I mainly study in optical imaging through scattering medium and phase 
@@ -19,6 +20,7 @@ retrieval based on traditional algorithms as well as deep learning.</div>
 
 ### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
 
+<table border="none">
    <tr>
       <td width = "45%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-3333.png" width = "100%">
@@ -27,10 +29,10 @@ retrieval based on traditional algorithms as well as deep learning.</div>
       <td width = "55%">
          <p font-size="16px">Recovering object from speckle pattern which is imaging through multiple scattering media.</p>
          <p font-size="16px"> Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern.</p>
-         <p font-size="16px">This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. </p>
-        </td>
-     <tr> 
-
+         <p font-size="16px">This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise.</p>
+      </td>
+   <tr> 
+</table>
  
 ### Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).
 
@@ -39,12 +41,12 @@ retrieval based on traditional algorithms as well as deep learning.</div>
       <td width = "55%">
          <p font-size="16px">  Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary.</b></p>
          <p font-size="16px">So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image. </p>
-         </td>
-        <td width = "45%">
-          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-12222.png" width = "100%">
-        </td>
-     <tr> 
-  </table>
+      </td>
+      <td width = "45%">
+         <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-12222.png" width = "100%">
+      </td>
+   <tr> 
+</table>
   
 ### Publication
   
