@@ -12,10 +12,10 @@
      <tr> 
   </table>
     
-   E-mail : qianqiancheng2018@njust.edu.cn
+   E-mail : qianqiancheng2018@njust.edu.cn</br>
    
    Currently I mainly study in optical imaging through scattering medium and phase 
- retrieval based on traditional algorithms as well as deep learning.    
+ retrieval based on traditional algorithms as well as deep learning.</br>    
 
 
 
