@@ -7,7 +7,7 @@
          <p font-size="16px">My major is Optical Engineering.</p>
         </td>
         <td width = "45%">
-          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png" width = "100%">
+          <img src = "./未标题-1.png" width = "100%">
         </td>
      <tr> 
 </table>  
@@ -23,8 +23,8 @@ retrieval based on traditional algorithms as well as deep learning.</div>
 <table border="none">
    <tr>
       <td width = "45%">
-          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-3333.png" width = "100%">
-          <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-2.png" width = "100%">
+          <img src = "./未标题-3333.png" width = "100%">
+          <img src = "./未标题-2.png" width = "100%">
         </td>
       <td width = "55%">
          <p font-size="16px">Recovering object from speckle pattern which is imaging through multiple scattering media.</p>
@@ -43,22 +43,22 @@ retrieval based on traditional algorithms as well as deep learning.</div>
          <p font-size="16px">So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image. </p>
       </td>
       <td width = "45%">
-         <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-12222.png" width = "100%">
+         <img src = "./未标题-12222.png" width = "100%">
       </td>
    <tr> 
 </table>
   
 ### Publication
   
-<p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST28(2017)122Gamma%20Measurement%20based%20on%20CMOS%20and.pdf" target="_blank" text-decoration="none">Gamma measurement based on CMOS sensor and ARM microcontroller</a></p>
+<p><a href="./NST28(2017)122Gamma%20Measurement%20based%20on%20CMOS%20and.pdf" target="_blank" text-decoration="none">Gamma measurement based on CMOS sensor and ARM microcontroller</a></p>
 <b>Qian-Qian Cheng,</b>__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang</br>    
 Nuclear Science and Techniques, 2017 </br> 
 </br>
-<p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST30(2019)9X-ray%20detection%20CMOS.pdf" target="_blank" text-decoration="none">X-ray detection based on complementary metal-oxide-semiconductor sensorsr</a></p>   
+<p><a href="./NST30(2019)9X-ray%20detection%20CMOS.pdf" target="_blank" text-decoration="none">X-ray detection based on complementary metal-oxide-semiconductor sensorsr</a></p>   
 <b>Qian-Qian Cheng,</b>Chun-Wang Ma, Yan-Zhong Yuan, Fang Wang, Fu Jin, Xian-Feng Liu </br>     
 Nuclear Science and Techniques, 2019 </br>
 </br>
-<p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST30(2019)9X-ray%20detection%20CMOS.pdf" target="_blank" text-decoration="none">Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)</a></p>    
+<p><a href="./NST30(2019)9X-ray%20detection%20CMOS.pdf" target="_blank" text-decoration="none">Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)</a></p>    
 Song-Ling Zhang,  <b>Qian-Qian Cheng,</b> De-Fei Guo, Chun-Wang Ma, Fang Wang </br>        
 Nuclear Electronics＆Detection Technology, 2017 </br> 
    
