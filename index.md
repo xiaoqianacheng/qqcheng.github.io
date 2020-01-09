@@ -33,8 +33,10 @@ So my next work is improving the evaluation indicators in MNIST-Fashion, utilizi
    Song-Ling Zhang,  __Qian-Qian Cheng,__ De-Fei Guo, Chun-Wang Ma, Fang Wang
    
 # Experience
-
-
-
+### 2015.09-2018.06
+   Henan Normal University    Materials Science and Engineering    Master            Supervisor: Professor Chunwang Ma
+### 2018.09-present
+   NJUST                      Optical Engineering                  Ph.D. candidate   Supervisor: Professor Lianfa Bai
+  
 
 
