@@ -2,8 +2,9 @@
 <table border="none">
    <tr>
       <td width = "55%"> 
-         <p font-size="16px">I am a 2rd year PhD candidate at Nanjing University of Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</p>
-         <p font-size="16px">My major is Optical Engineering.</p>
+         I am a 2rd year PhD candidate at Nanjing University of</br>
+         Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.
+         <p>My major is Optical Engineering.</p>
         </td>
         <td width = "45%">
           <img src = "./未标题-1.png" width = "100%">
