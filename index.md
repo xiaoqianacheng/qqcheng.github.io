@@ -18,7 +18,8 @@
  retrieval based on traditional algorithms as well as deep learning.    
 
 
-# Related work
+
+## Related work
 
 
 ### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
@@ -51,7 +52,7 @@ So my next work is improving the evaluation indicators in MNIST-Fashion, utilizi
   </table>
          
 
-# Publication
+## Publication
 
 ### Gamma measurement based on CMOS sensor and ARM microcontroller
    __Qian-Qian Cheng,__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang  
