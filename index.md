@@ -10,16 +10,16 @@ Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing H
  retrieval based on traditional algorithms as well as deep learning. 
 
 
-# RESEARCH EXPERIENCE
+# Related work
+## Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
 
-PhD candidate : Mainly study in speckle pattern based on autocorrelation via traditional algorithms and deep learning.
+   Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern. This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. 
 
-1、Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern. This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. 
-
-2、Reconstructing object imaging in complex scene from its autocorrelation via traditional algorithms and convolutional neural network. Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary. My manuscript is in writing.
+## Reconstructing object imaging in complex scene from its autocorrelation via traditional algorithms and convolutional neural network.
+   Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary. My manuscript is in writing.
 So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image.
 
-# PUBLICATIONS
+# Publication
 
 ### Gamma measurement based on CMOS sensor and ARM microcontroller
    __Qian-Qian Cheng,__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang
@@ -31,6 +31,8 @@ So my next work is improving the evaluation indicators in MNIST-Fashion, utilizi
    
 ### Design of the New Remote Measurement System for Low－Energy Radiation
    Song-Ling Zhang,  __Qian-Qian Cheng,__ De-Fei Guo, Chun-Wang Ma, Fang Wang
+   
+# Experience
 
 
 
