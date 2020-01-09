@@ -27,7 +27,8 @@ __Low-resolution and high-noise scattering imaging with Autocorrelation based on
 <table border = "0">
    <tr>
       <td width = "55%">
-         <p><b>Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern. This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. </b></p>
+         <p><b>Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern.</b></p>
+         <p><b>This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. </b></p>
         </td>
         <td width = "45%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-3333.png" width = "100%">
