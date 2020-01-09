@@ -22,7 +22,7 @@
 ## Related work
 
 
-__Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning__
+### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
 
 <table border = "0">
    <tr>
@@ -37,7 +37,7 @@ __Low-resolution and high-noise scattering imaging with Autocorrelation based on
      <tr> 
   </table>
  
-__Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).__
+### Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).
 
 <table border = "0">
    <tr>
