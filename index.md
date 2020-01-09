@@ -1,5 +1,4 @@
 # Qianqian cheng
-<table border="none">
    <tr>
       <td width = "55%"> 
          <p font-size="16px">I am a 2rd year PhD candidate at Nanjing University of <span color="#1772d0"></p>
@@ -31,7 +30,7 @@ retrieval based on traditional algorithms as well as deep learning.</div>
          <p font-size="16px">This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. </p>
         </td>
      <tr> 
-  </table>
+
  
 ### Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).
 
