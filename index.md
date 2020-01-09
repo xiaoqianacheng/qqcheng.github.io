@@ -1,10 +1,10 @@
 <table border = "0">
    <tr>
       <td width = "55%">
-         <h1 font-weight="naormal> <b>Qianqian Cheng </b></h1>  
+         <h1 font-weight="naormal> <b>Qianqian Cheng   </b></h1>  
          <p font-size="16px">I am a 2rd year PhD candidate at Nanjing University of <span color="#1772d0"></p>
-         <p>Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</p>
-         <p>My major is Optical Engineering.</p>
+         <p font-size="16px">Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</p>
+         <p font-size="16px">My major is Optical Engineering.</p>
         </td>
         <td width = "45%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png" width = "100%">
