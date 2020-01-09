@@ -33,7 +33,3 @@ So my next work is improving the evaluation indicators in MNIST-Fashion, utilizi
    Song-Ling Zhang,  __Qian-Qian Cheng,__ De-Fei Guo, Chun-Wang Ma, Fang Wang  
    Nuclear Electronics＆Detection Technology, 2017
    
-
-  
-
-
