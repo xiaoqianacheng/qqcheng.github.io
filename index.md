@@ -1,7 +1,7 @@
 <table border = "0">
    <tr>
       <td width = "55%">
-         <h1> Qianqian Cheng </b></p>
+         <h1 font-weight="naormal> Qianqian Cheng </h1>
          <p><b>I am a 2rd year PhD candidate at Nanjing University of </b></p>
          <p><b>Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</b></p>
          <p><b>My major is Optical Engineering.</b></p>
