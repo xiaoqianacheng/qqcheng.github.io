@@ -58,12 +58,13 @@
 <p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST28(2017)122Gamma%20Measurement%20based%20on%20CMOS%20and.pdf" target="_blank" text-decoration="none">Gamma measurement based on CMOS sensor and ARM microcontroller</a></p>
    <b>Qian-Qian Cheng,</b>__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang</br>    
    Nuclear Science and Techniques, 2017 </br> 
-   
+   </br>
 <p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST30(2019)9X-ray%20detection%20CMOS.pdf" target="_blank" text-decoration="none">X-ray detection based on complementary metal-oxide-semiconductor sensorsr</a></p>
       
    <b>Qian-Qian Cheng,</b>Chun-Wang Ma, Yan-Zhong Yuan, Fang Wang, Fu Jin, Xian-Feng Liu </br>     
    Nuclear Science and Techniques, 2019 </br>
-  
+   
+   </br>
 <p><a href="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST30(2019)9X-ray%20detection%20CMOS.pdf" target="_blank" text-decoration="none">Design of the New Remote Measurement System for Low－Energy Radiation (In Chinese)</a></p>    
    Song-Ling Zhang,  <b>Qian-Qian Cheng,</b> De-Fei Guo, Chun-Wang Ma, Fang Wang </br>        
    Nuclear Electronics＆Detection Technology, 2017 </br> 
