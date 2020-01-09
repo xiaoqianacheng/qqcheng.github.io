@@ -5,7 +5,6 @@
          <p><b> I am a 2rd year PhD candidate at Nanjing University of </b></p>
          <p><b>Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</b></p>
          <p><b>My major is Optical Engineering.</b></p>
-         <p><b> E-mail : qianqiancheng2018@njust.edu.cn</b></p>
         </td>
         <td width = "65%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png" width = "100%">
@@ -13,11 +12,10 @@
      <tr> 
   </table>
     
-   
+   E-mail : qianqiancheng2018@njust.edu.cn
    
    Currently I mainly study in optical imaging through scattering medium and phase 
  retrieval based on traditional algorithms as well as deep learning.    
-![github](https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png “github”)；
 
 # Related work
 ### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
