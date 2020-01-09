@@ -31,7 +31,8 @@
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-2.png" width = "100%">
         </td>
       <td width = "55%">
-         <p font-size="16px">Recovering object from speckle pattern which is imaging through multiple scattering media. Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern.</p>
+         <p font-size="16px">Recovering object from speckle pattern which is imaging through multiple scattering media.</p>
+         <p font-size="16px"> Focused on multiple scattering media, low-resolution and high-noise, I propose a new method, using the autocorrelation as a bridge to recover object from low-resolution and noised speckle pattern.</p>
          <p font-size="16px">This method utilized autocorrelation as physical constraints has ability to solve ill-posed inverse problem and improve the robustness to noise. </p>
         </td>
      <tr> 
@@ -54,7 +55,8 @@
 
 ### Publication
 
- __Gamma measurement based on CMOS sensor and ARM microcontroller__   
+ __Gamma measurement based on CMOS sensor and ARM microcontroller__ 
+ <a hrf="https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/NST28(2017)122Gamma%20Measurement%20based%20on%20CMOS%20and.pdf" target="_blank" text-decoration="none">paper line</ a>
    __Qian-Qian Cheng,__ Yan-Zhong Yuan, Chun-Wang Ma, Fang Wang  
    Nuclear Science and Techniques, 2017  
  __X-ray detection based on complementary metal-oxide-semiconductor sensors__      
