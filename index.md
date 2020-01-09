@@ -1,12 +1,12 @@
 <table border = "0">
    <tr>
-      <td width = "45%">
+      <td width = "55%">
          <h1> Qianqian Cheng </b></p>
          <p><b> I am a 2rd year PhD candidate at Nanjing University of </b></p>
          <p><b>Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.</b></p>
          <p><b>My major is Optical Engineering.</b></p>
         </td>
-        <td width = "55%">
+        <td width = "45%">
           <img src = "https://github.com/xiaoqianacheng/qianqiancheng.github.io/blob/master/未标题-1.png" width = "100%">
         </td>
      <tr> 
