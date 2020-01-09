@@ -1,8 +1,8 @@
 # Qianqian Cheng
 
-    I am a 2rd year PhD candidate at Nanjing University of    
+         I am a 2rd year PhD candidate at Nanjing University of    
     Science and Technology, supervised by Professor Lianfa Bai and Researcher Jing Han.   
-    My major is Optical Engineering. 
+        My major is Optical Engineering. 
    
    E-mail : qianqiancheng2018@njust.edu.cn
    
