@@ -1,5 +1,5 @@
 # Qianqian cheng
-<table border="none">
+<table border="0">
    <tr>
       <td width = "55%"> 
          I am a 2rd year PhD candidate at Nanjing University of</br>
@@ -7,7 +7,7 @@
          <p>My major is Optical Engineering.</p>
         </td>
         <td width = "45%">
-          <img src = "./未标题-1.png" width = "100%">
+<!--           <img src = "./未标题-1.png" width = "100%"> -->
         </td>
      <tr> 
 </table>  
@@ -20,11 +20,11 @@ retrieval based on traditional algorithms as well as deep learning.</div>
 
 ### Low-resolution and high-noise scattering imaging with Autocorrelation based on Deep Learning
 
-<table border="none">
+<table border="0">
    <tr>
       <td width = "45%">
-          <img src = "./未标题-3333.png" width = "100%">
-          <img src = "./未标题-2.png" width = "100%">
+<!--           <img src = "./未标题-3333.png" width = "100%"> -->
+<!--           <img src = "./未标题-2.png" width = "100%"> -->
         </td>
       <td width = "55%">
          <p font-size="16px">Recovering object from speckle pattern which is imaging through multiple scattering media.</p>
@@ -36,14 +36,14 @@ retrieval based on traditional algorithms as well as deep learning.</div>
  
 ### Reconstructing object imaging in the complex scene from its autocorrelation via traditional algorithms and the convolutional neural network(CNN).
 
-<table border = "0">
+<table border="0">
    <tr>
       <td width = "55%">
          <p font-size="16px">  Only via CNN, the MNIST-Fashion and Berkeley Segmentation Dataset have been successfully recovered preliminary.</b></p>
          <p font-size="16px">So my next work is improving the evaluation indicators in MNIST-Fashion, utilizing traditional algorithms and machine language to recover natural image. </p>
       </td>
       <td width = "45%">
-         <img src = "./未标题-12222.png" width = "100%">
+<!--          <img src = "./未标题-12222.png" width = "100%"> -->
       </td>
    <tr> 
 </table>
